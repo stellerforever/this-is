@@ -1,10 +1,18 @@
 body{
     margin: 0;
     background-color: rgb(246, 230, 248);
+    object-position: center;
+    margin: 0 auto;
 }
 fieldset{
     white-space: normal;
-     box-sizing: border-box; 
-     object-position: top, center;
+    box-sizing: border-box; 
+    object-position: top, center;
+    margin: 0 auto;
+}
+ a{
+    color:black; 
+    box-sizing: border-box; 
+     object-position: center;
      margin: 0 auto;
  }
