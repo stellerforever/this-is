@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    background-color: rgb(246, 230, 248);
+}
+fieldset{
+    white-space: normal;
+     box-sizing: border-box; 
+     object-position: top, center;
+     margin: 0 auto;
+ }
