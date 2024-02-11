@@ -8,3 +8,10 @@ fieldset{
      object-position: top, center;
      margin: 0 auto;
  }
+
+ a{
+    color:rgb(0, 0, 0); 
+    box-sizing: border-box; 
+     object-position: center;
+     margin: 0 auto;
+ }
