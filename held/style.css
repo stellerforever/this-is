@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: rgb(247, 212, 233);
+}
+fieldset{
+    white-space: normal;
+     box-sizing: border-box; 
+     object-position: top, center;
+     margin: 0 auto;
+ }
+
+ a{
+    color:black; 
+    box-sizing: border-box; 
+     object-position: center;
+     margin: 0 auto;
+ }
